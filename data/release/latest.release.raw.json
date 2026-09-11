@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 7333736,
       "digest": "sha256:56273f6da3bfd345ae980dac6204f8c4168cc4ef69914127c0a24334c1201692",
-      "download_count": 222,
+      "download_count": 223,
       "created_at": "2026-05-16T12:21:09Z",
       "updated_at": "2026-05-16T12:21:10Z",
       "browser_download_url": "https://github.com/LucasPickering/slumber/releases/download/v5.3.0/slumber-x86_64-unknown-linux-gnu.tar.xz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 7513440,
       "digest": "sha256:3a813dcbed2b28a4438f9cb777566d8c06f026aa74e0623706ca4a2c48e2a8b4",
-      "download_count": 157,
+      "download_count": 158,
       "created_at": "2026-05-16T12:21:10Z",
       "updated_at": "2026-05-16T12:21:10Z",
       "browser_download_url": "https://github.com/LucasPickering/slumber/releases/download/v5.3.0/slumber-x86_64-unknown-linux-musl.tar.xz"
