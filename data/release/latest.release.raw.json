@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 55998,
       "digest": "sha256:19204969e4d0773a4d805649de39a066da238ba6d5a3d6b0580fb10a8a12bf95",
-      "download_count": 68,
+      "download_count": 69,
       "created_at": "2026-05-16T12:21:09Z",
       "updated_at": "2026-05-16T12:21:09Z",
       "browser_download_url": "https://github.com/LucasPickering/slumber/releases/download/v5.3.0/slumber-installer.sh"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 7333736,
       "digest": "sha256:56273f6da3bfd345ae980dac6204f8c4168cc4ef69914127c0a24334c1201692",
-      "download_count": 223,
+      "download_count": 225,
       "created_at": "2026-05-16T12:21:09Z",
       "updated_at": "2026-05-16T12:21:10Z",
       "browser_download_url": "https://github.com/LucasPickering/slumber/releases/download/v5.3.0/slumber-x86_64-unknown-linux-gnu.tar.xz"
