@@ -38,7 +38,7 @@ Total: **48,993** lines of code across **191** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,227 · **Forks**: 39 · **Open issues**: 170 · **Contributors**: 11
+- **Stars**: 1,228 · **Forks**: 39 · **Open issues**: 170 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **48,993** lines of code across **191** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 1 | 0 | 1 |
-| last60d | 2026-07-15 | 0 | 0 | 0 | 1 | 0 | 1 |
-| 90d | 2026-06-15 | 0 | 0 | 0 | 1 | 0 | 3 |
-| last180d | 2026-03-17 | 4 | 8 | 0 | 1 | 0 | 27 |
-| 360d | 2025-09-18 | 12 | 141 | 0 | 18 | 6 | 424 |
-| last720d | 2024-09-23 | 28 | 306 | 0 | 44 | 8 | 740 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 1 | 0 | 1 |
+| last60d | 2026-07-16 | 0 | 0 | 0 | 1 | 0 | 1 |
+| 90d | 2026-06-16 | 0 | 0 | 0 | 1 | 0 | 3 |
+| last180d | 2026-03-18 | 3 | 8 | 0 | 1 | 0 | 27 |
+| 360d | 2025-09-19 | 12 | 139 | 0 | 18 | 6 | 424 |
+| last720d | 2024-09-24 | 28 | 305 | 0 | 44 | 8 | 738 |
 
 ## Release assets
 
@@ -83,16 +83,6 @@ Total: **48,993** lines of code across **191** files in the top 5 languages.
 | [source.tar.gz](https://github.com/LucasPickering/slumber/releases/download/v5.3.0/source.tar.gz) | 1.7 MiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/LucasPickering/slumber/releases/download/v5.3.0/source.tar.gz.sha256) | 81 B | `other` |
 
-## Distribution status
-
-Reported by **16** distros on [repology.org](https://repology.org/project/slumber). **9** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `5.3.0` | ✅ latest |
-| Homebrew | `5.3.0` | ✅ latest |
-| Nix unstable | `5.3.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for slumber lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `slumber` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -102,4 +92,4 @@ Install metadata for slumber lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:17:37Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:30:12Z._
