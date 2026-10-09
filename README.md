@@ -14,11 +14,11 @@ x install slumber
 
 ## Code insight
 
-Total: **48,993** lines of code across **191** files in the top 5 languages.
+Total: **48,999** lines of code across **191** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 43,540 | 3,328 | 4,578 | 150 |
+| Rust | 43,546 | 3,329 | 4,579 | 150 |
 | Yaml | 2,879 | 59 | 91 | 16 |
 | Json | 1,656 | 0 | 1 | 5 |
 | Toml | 726 | 29 | 87 | 17 |
@@ -33,27 +33,27 @@ Total: **48,993** lines of code across **191** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v5.3.0` (2026-05-16)
-- **Last commit**: 2026-09-01
+- **Last commit**: 2026-10-08
 - **Assets in release**: 23
 
 ## Popularity
 
-- **Stars**: 1,228 · **Forks**: 40 · **Open issues**: 170 · **Contributors**: 11
+- **Stars**: 1,228 · **Forks**: 40 · **Open issues**: 170 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 569 · **Open PRs**: 1 · **Closed issues**: 161 · **Open issues**: 9 · **Commits**: 1309
+- **Releases**: 63 · **Merged PRs**: 569 · **Open PRs**: 1 · **Closed issues**: 161 · **Open issues**: 9 · **Commits**: 1311
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-09 | 0 | 0 | 1 | 1 | 0 | 1 |
-| 90d | 2026-07-10 | 0 | 0 | 1 | 1 | 0 | 1 |
-| last180d | 2026-04-11 | 2 | 2 | 1 | 1 | 0 | 12 |
-| 360d | 2025-10-13 | 11 | 118 | 1 | 16 | 6 | 378 |
-| last720d | 2024-10-18 | 27 | 300 | 1 | 40 | 8 | 728 |
+| 30d | 2026-09-09 | 0 | 0 | 1 | 0 | 0 | 2 |
+| last60d | 2026-08-10 | 0 | 0 | 1 | 1 | 0 | 3 |
+| 90d | 2026-07-11 | 0 | 0 | 1 | 1 | 0 | 3 |
+| last180d | 2026-04-12 | 2 | 2 | 1 | 1 | 0 | 14 |
+| 360d | 2025-10-14 | 11 | 117 | 1 | 16 | 6 | 380 |
+| last720d | 2024-10-19 | 27 | 300 | 1 | 40 | 8 | 730 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for slumber lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T07:12:54Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T07:12:59Z._
