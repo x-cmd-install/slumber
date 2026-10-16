@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6513800,
       "digest": "sha256:abe708e776c6dc76b1b5c3ff64b29d5554eb6d66d3d2a12dbe50fe58fb7605c1",
-      "download_count": 9,
+      "download_count": 14,
       "created_at": "2026-10-14T21:53:48Z",
       "updated_at": "2026-10-14T21:53:49Z",
       "browser_download_url": "https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber-aarch64-apple-darwin.tar.xz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 9858545,
       "digest": "sha256:256572ef8ae58aaabc07d17991d4fb094ac2bf8fe0e037bf9fcfd4ff5cd331b8",
-      "download_count": 4,
+      "download_count": 8,
       "created_at": "2026-10-14T21:53:48Z",
       "updated_at": "2026-10-14T21:53:49Z",
       "browser_download_url": "https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber-aarch64-pc-windows-msvc.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 103,
       "digest": "sha256:0adf725da909de198ce963e3ac735a5a27574ff5f95d1a22a044ce0bb8dee25f",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-14T21:53:49Z",
       "updated_at": "2026-10-14T21:53:49Z",
       "browser_download_url": "https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber-aarch64-pc-windows-msvc.zip.sha256"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 6943160,
       "digest": "sha256:e070a543943607a52995d7770aed6017f5e890394ff2dc85dd33b70c81a2e4e8",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-10-14T21:53:49Z",
       "updated_at": "2026-10-14T21:53:50Z",
       "browser_download_url": "https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber-aarch64-unknown-linux-musl.tar.xz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 55998,
       "digest": "sha256:17c2399a084850f85259dffed0d9a5698794cf6ab9302503e6f3fe7368d0cec4",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-14T21:53:49Z",
       "updated_at": "2026-10-14T21:53:50Z",
       "browser_download_url": "https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber-installer.sh"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 7174104,
       "digest": "sha256:c8480c5095d85d5140be7c9216d5927f93b60151ce8f5f761bef0f9f38010131",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-10-14T21:53:49Z",
       "updated_at": "2026-10-14T21:53:50Z",
       "browser_download_url": "https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber-x86_64-apple-darwin.tar.xz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 10688211,
       "digest": "sha256:fc083e39b2d92b2addbd7939b12401596d1be1f1b18584688acec8bd89059430",
-      "download_count": 6,
+      "download_count": 15,
       "created_at": "2026-10-14T21:53:50Z",
       "updated_at": "2026-10-14T21:53:51Z",
       "browser_download_url": "https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber-x86_64-pc-windows-msvc.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 102,
       "digest": "sha256:9eece28844f3097b475dfc0cd623a29c01be40ae1a0a4a6b25aef0822e938c5b",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-14T21:53:50Z",
       "updated_at": "2026-10-14T21:53:50Z",
       "browser_download_url": "https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber-x86_64-pc-windows-msvc.zip.sha256"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 7516496,
       "digest": "sha256:1280c43b508708bb6dbf0087841d6372e5dcb28dd0287aa1d72db8033d60ac04",
-      "download_count": 2,
+      "download_count": 7,
       "created_at": "2026-10-14T21:53:50Z",
       "updated_at": "2026-10-14T21:53:51Z",
       "browser_download_url": "https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber-x86_64-unknown-linux-gnu.tar.xz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 7693140,
       "digest": "sha256:21eb7ed8e4c329a26252de1ccda5dcee86664d29cb6a6bbdaf696261662b8810",
-      "download_count": 5,
+      "download_count": 11,
       "created_at": "2026-10-14T21:53:50Z",
       "updated_at": "2026-10-14T21:53:51Z",
       "browser_download_url": "https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber-x86_64-unknown-linux-musl.tar.xz"
