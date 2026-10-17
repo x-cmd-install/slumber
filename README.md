@@ -14,15 +14,15 @@ x install slumber
 
 ## Code insight
 
-Total: **49,028** lines of code across **191** files in the top 5 languages.
+Total: **49,064** lines of code across **191** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 43,574 | 3,334 | 4,582 | 150 |
+| Rust | 43,605 | 3,328 | 4,588 | 150 |
 | Yaml | 2,879 | 59 | 91 | 16 |
 | Json | 1,656 | 0 | 1 | 5 |
-| Toml | 727 | 30 | 87 | 17 |
-| Python | 165 | 12 | 62 | 3 |
+| Toml | 728 | 30 | 87 | 17 |
+| Python | 169 | 12 | 67 | 3 |
 
 ## Source
 
@@ -32,56 +32,56 @@ Total: **49,028** lines of code across **191** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v5.4.0` (2026-10-14)
+- **Latest**: `v5.4.2` (2026-10-16)
 - **Last commit**: 2026-10-16
 - **Assets in release**: 23
 
 ## Popularity
 
-- **Stars**: 1,228 · **Forks**: 40 · **Open issues**: 171 · **Contributors**: 12
+- **Stars**: 1,229 · **Forks**: 40 · **Open issues**: 171 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 64 · **Merged PRs**: 571 · **Open PRs**: 1 · **Closed issues**: 161 · **Open issues**: 10 · **Commits**: 1324
+- **Releases**: 65 · **Merged PRs**: 573 · **Open PRs**: 0 · **Closed issues**: 162 · **Open issues**: 9 · **Commits**: 1331
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 1 | 2 | 1 | 0 | 1 | 15 |
-| last60d | 2026-08-17 | 1 | 2 | 1 | 1 | 1 | 16 |
-| 90d | 2026-07-18 | 1 | 2 | 1 | 1 | 1 | 16 |
-| last180d | 2026-04-19 | 2 | 4 | 1 | 1 | 1 | 27 |
-| 360d | 2025-10-21 | 11 | 118 | 1 | 16 | 7 | 390 |
-| last720d | 2024-10-26 | 27 | 297 | 1 | 37 | 9 | 738 |
+| 30d | 2026-09-17 | 2 | 4 | 0 | 1 | 0 | 22 |
+| last60d | 2026-08-18 | 2 | 4 | 0 | 2 | 0 | 23 |
+| 90d | 2026-07-19 | 2 | 4 | 0 | 2 | 0 | 23 |
+| last180d | 2026-04-20 | 3 | 6 | 0 | 2 | 0 | 34 |
+| 360d | 2025-10-22 | 12 | 120 | 0 | 16 | 6 | 397 |
+| last720d | 2024-10-27 | 28 | 298 | 0 | 38 | 8 | 744 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [dist-manifest.json](https://github.com/LucasPickering/slumber/releases/download/v5.4.0/dist-manifest.json) | 32.4 KiB | `other` |
-| [sha256.sum](https://github.com/LucasPickering/slumber/releases/download/v5.4.0/sha256.sum) | 915 B | `other` |
-| [slumber-aarch64-apple-darwin.tar.xz](https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber-aarch64-apple-darwin.tar.xz) | 6.2 MiB | `native/darwin/arm64` |
-| [slumber-aarch64-apple-darwin.tar.xz.sha256](https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber-aarch64-apple-darwin.tar.xz.sha256) | 103 B | `native/darwin/arm64` |
-| [slumber-aarch64-pc-windows-msvc.zip](https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber-aarch64-pc-windows-msvc.zip) | 9.4 MiB | `native/win/arm64` |
-| [slumber-aarch64-pc-windows-msvc.zip.sha256](https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber-aarch64-pc-windows-msvc.zip.sha256) | 103 B | `native/win/arm64` |
-| [slumber-aarch64-unknown-linux-gnu.tar.xz](https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber-aarch64-unknown-linux-gnu.tar.xz) | 6.6 MiB | `native/linux/arm64/glibc` |
-| [slumber-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber-aarch64-unknown-linux-gnu.tar.xz.sha256) | 108 B | `native/linux/arm64/glibc` |
-| [slumber-aarch64-unknown-linux-musl.tar.xz](https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber-aarch64-unknown-linux-musl.tar.xz) | 6.6 MiB | `native/linux/arm64/musl` |
-| [slumber-aarch64-unknown-linux-musl.tar.xz.sha256](https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber-aarch64-unknown-linux-musl.tar.xz.sha256) | 109 B | `native/linux/arm64/musl` |
-| [slumber-installer.ps1](https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber-installer.ps1) | 21.0 KiB | `other` |
-| [slumber-installer.sh](https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber-installer.sh) | 54.7 KiB | `other` |
-| [slumber-x86_64-apple-darwin.tar.xz](https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber-x86_64-apple-darwin.tar.xz) | 6.8 MiB | `native/darwin/x64` |
-| [slumber-x86_64-apple-darwin.tar.xz.sha256](https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber-x86_64-apple-darwin.tar.xz.sha256) | 102 B | `native/darwin/x64` |
-| [slumber-x86_64-pc-windows-msvc.zip](https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber-x86_64-pc-windows-msvc.zip) | 10.2 MiB | `native/win/x64` |
-| [slumber-x86_64-pc-windows-msvc.zip.sha256](https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber-x86_64-pc-windows-msvc.zip.sha256) | 102 B | `native/win/x64` |
-| [slumber-x86_64-unknown-linux-gnu.tar.xz](https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber-x86_64-unknown-linux-gnu.tar.xz) | 7.2 MiB | `native/linux/x64/glibc` |
-| [slumber-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber-x86_64-unknown-linux-gnu.tar.xz.sha256) | 107 B | `native/linux/x64/glibc` |
-| [slumber-x86_64-unknown-linux-musl.tar.xz](https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber-x86_64-unknown-linux-musl.tar.xz) | 7.3 MiB | `native/linux/x64/musl` |
-| [slumber-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber-x86_64-unknown-linux-musl.tar.xz.sha256) | 108 B | `native/linux/x64/musl` |
-| [slumber.rb](https://github.com/LucasPickering/slumber/releases/download/v5.4.0/slumber.rb) | 2.5 KiB | `other` |
-| [source.tar.gz](https://github.com/LucasPickering/slumber/releases/download/v5.4.0/source.tar.gz) | 1.7 MiB | `native/unknown` |
-| [source.tar.gz.sha256](https://github.com/LucasPickering/slumber/releases/download/v5.4.0/source.tar.gz.sha256) | 81 B | `other` |
+| [dist-manifest.json](https://github.com/LucasPickering/slumber/releases/download/v5.4.2/dist-manifest.json) | 31.4 KiB | `other` |
+| [sha256.sum](https://github.com/LucasPickering/slumber/releases/download/v5.4.2/sha256.sum) | 915 B | `other` |
+| [slumber-aarch64-apple-darwin.tar.xz](https://github.com/LucasPickering/slumber/releases/download/v5.4.2/slumber-aarch64-apple-darwin.tar.xz) | 6.0 MiB | `native/darwin/arm64` |
+| [slumber-aarch64-apple-darwin.tar.xz.sha256](https://github.com/LucasPickering/slumber/releases/download/v5.4.2/slumber-aarch64-apple-darwin.tar.xz.sha256) | 103 B | `native/darwin/arm64` |
+| [slumber-aarch64-pc-windows-msvc.zip](https://github.com/LucasPickering/slumber/releases/download/v5.4.2/slumber-aarch64-pc-windows-msvc.zip) | 9.1 MiB | `native/win/arm64` |
+| [slumber-aarch64-pc-windows-msvc.zip.sha256](https://github.com/LucasPickering/slumber/releases/download/v5.4.2/slumber-aarch64-pc-windows-msvc.zip.sha256) | 103 B | `native/win/arm64` |
+| [slumber-aarch64-unknown-linux-gnu.tar.xz](https://github.com/LucasPickering/slumber/releases/download/v5.4.2/slumber-aarch64-unknown-linux-gnu.tar.xz) | 6.4 MiB | `native/linux/arm64/glibc` |
+| [slumber-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/LucasPickering/slumber/releases/download/v5.4.2/slumber-aarch64-unknown-linux-gnu.tar.xz.sha256) | 108 B | `native/linux/arm64/glibc` |
+| [slumber-aarch64-unknown-linux-musl.tar.xz](https://github.com/LucasPickering/slumber/releases/download/v5.4.2/slumber-aarch64-unknown-linux-musl.tar.xz) | 6.4 MiB | `native/linux/arm64/musl` |
+| [slumber-aarch64-unknown-linux-musl.tar.xz.sha256](https://github.com/LucasPickering/slumber/releases/download/v5.4.2/slumber-aarch64-unknown-linux-musl.tar.xz.sha256) | 109 B | `native/linux/arm64/musl` |
+| [slumber-installer.ps1](https://github.com/LucasPickering/slumber/releases/download/v5.4.2/slumber-installer.ps1) | 21.0 KiB | `other` |
+| [slumber-installer.sh](https://github.com/LucasPickering/slumber/releases/download/v5.4.2/slumber-installer.sh) | 54.7 KiB | `other` |
+| [slumber-x86_64-apple-darwin.tar.xz](https://github.com/LucasPickering/slumber/releases/download/v5.4.2/slumber-x86_64-apple-darwin.tar.xz) | 6.6 MiB | `native/darwin/x64` |
+| [slumber-x86_64-apple-darwin.tar.xz.sha256](https://github.com/LucasPickering/slumber/releases/download/v5.4.2/slumber-x86_64-apple-darwin.tar.xz.sha256) | 102 B | `native/darwin/x64` |
+| [slumber-x86_64-pc-windows-msvc.zip](https://github.com/LucasPickering/slumber/releases/download/v5.4.2/slumber-x86_64-pc-windows-msvc.zip) | 10.0 MiB | `native/win/x64` |
+| [slumber-x86_64-pc-windows-msvc.zip.sha256](https://github.com/LucasPickering/slumber/releases/download/v5.4.2/slumber-x86_64-pc-windows-msvc.zip.sha256) | 102 B | `native/win/x64` |
+| [slumber-x86_64-unknown-linux-gnu.tar.xz](https://github.com/LucasPickering/slumber/releases/download/v5.4.2/slumber-x86_64-unknown-linux-gnu.tar.xz) | 6.9 MiB | `native/linux/x64/glibc` |
+| [slumber-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/LucasPickering/slumber/releases/download/v5.4.2/slumber-x86_64-unknown-linux-gnu.tar.xz.sha256) | 107 B | `native/linux/x64/glibc` |
+| [slumber-x86_64-unknown-linux-musl.tar.xz](https://github.com/LucasPickering/slumber/releases/download/v5.4.2/slumber-x86_64-unknown-linux-musl.tar.xz) | 7.1 MiB | `native/linux/x64/musl` |
+| [slumber-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/LucasPickering/slumber/releases/download/v5.4.2/slumber-x86_64-unknown-linux-musl.tar.xz.sha256) | 108 B | `native/linux/x64/musl` |
+| [slumber.rb](https://github.com/LucasPickering/slumber/releases/download/v5.4.2/slumber.rb) | 2.5 KiB | `other` |
+| [source.tar.gz](https://github.com/LucasPickering/slumber/releases/download/v5.4.2/source.tar.gz) | 1.7 MiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/LucasPickering/slumber/releases/download/v5.4.2/source.tar.gz.sha256) | 81 B | `other` |
 
 ## Improve this data
 
@@ -92,4 +92,4 @@ Install metadata for slumber lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:46:22Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:24:04Z._
