@@ -14,14 +14,14 @@ x install slumber
 
 ## Code insight
 
-Total: **49,064** lines of code across **191** files in the top 5 languages.
+Total: **49,279** lines of code across **193** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 43,605 | 3,328 | 4,588 | 150 |
+| Rust | 43,780 | 3,341 | 4,606 | 151 |
 | Yaml | 2,879 | 59 | 91 | 16 |
 | Json | 1,656 | 0 | 1 | 5 |
-| Toml | 728 | 30 | 87 | 17 |
+| Toml | 768 | 30 | 92 | 18 |
 | Python | 169 | 12 | 67 | 3 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **49,064** lines of code across **191** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v5.4.2` (2026-10-16)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-17
 - **Assets in release**: 23
 
 ## Popularity
 
-- **Stars**: 1,229 · **Forks**: 40 · **Open issues**: 171 · **Contributors**: 12
+- **Stars**: 1,230 · **Forks**: 40 · **Open issues**: 171 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 65 · **Merged PRs**: 573 · **Open PRs**: 0 · **Closed issues**: 162 · **Open issues**: 9 · **Commits**: 1331
+- **Releases**: 65 · **Merged PRs**: 574 · **Open PRs**: 0 · **Closed issues**: 162 · **Open issues**: 9 · **Commits**: 1334
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 2 | 4 | 0 | 1 | 0 | 22 |
-| last60d | 2026-08-18 | 2 | 4 | 0 | 2 | 0 | 23 |
-| 90d | 2026-07-19 | 2 | 4 | 0 | 2 | 0 | 23 |
-| last180d | 2026-04-20 | 3 | 6 | 0 | 2 | 0 | 34 |
-| 360d | 2025-10-22 | 12 | 120 | 0 | 16 | 6 | 397 |
-| last720d | 2024-10-27 | 28 | 298 | 0 | 38 | 8 | 744 |
+| 30d | 2026-09-18 | 2 | 5 | 0 | 1 | 0 | 25 |
+| last60d | 2026-08-19 | 2 | 5 | 0 | 2 | 0 | 26 |
+| 90d | 2026-07-20 | 2 | 5 | 0 | 2 | 0 | 26 |
+| last180d | 2026-04-21 | 3 | 7 | 0 | 2 | 0 | 37 |
+| 360d | 2025-10-23 | 12 | 121 | 0 | 16 | 6 | 396 |
+| last720d | 2024-10-28 | 28 | 299 | 0 | 38 | 8 | 744 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for slumber lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T05:24:04Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T05:32:20Z._
