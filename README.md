@@ -48,12 +48,12 @@ Total: **49,279** lines of code across **193** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 2 | 5 | 0 | 1 | 0 | 25 |
-| last60d | 2026-08-19 | 2 | 5 | 0 | 2 | 0 | 26 |
-| 90d | 2026-07-20 | 2 | 5 | 0 | 2 | 0 | 26 |
-| last180d | 2026-04-21 | 3 | 7 | 0 | 2 | 0 | 37 |
-| 360d | 2025-10-23 | 12 | 121 | 0 | 16 | 6 | 396 |
-| last720d | 2024-10-28 | 28 | 299 | 0 | 38 | 8 | 744 |
+| 30d | 2026-09-19 | 2 | 5 | 0 | 1 | 0 | 25 |
+| last60d | 2026-08-20 | 2 | 5 | 0 | 2 | 0 | 26 |
+| 90d | 2026-07-21 | 2 | 5 | 0 | 2 | 0 | 26 |
+| last180d | 2026-04-22 | 3 | 7 | 0 | 2 | 0 | 37 |
+| 360d | 2025-10-24 | 12 | 121 | 0 | 16 | 6 | 396 |
+| last720d | 2024-10-29 | 28 | 299 | 0 | 38 | 8 | 744 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for slumber lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T05:32:20Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:41:34Z._
