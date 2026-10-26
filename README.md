@@ -42,18 +42,18 @@ Total: **49,279** lines of code across **193** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 66 · **Merged PRs**: 574 · **Open PRs**: 0 · **Closed issues**: 159 · **Open issues**: 10 · **Commits**: 1336
+- **Releases**: 66 · **Merged PRs**: 574 · **Open PRs**: 0 · **Closed issues**: 160 · **Open issues**: 9 · **Commits**: 1336
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 3 | 5 | 0 | 1 | 1 | 26 |
-| last60d | 2026-08-26 | 3 | 5 | 0 | 2 | 1 | 27 |
-| 90d | 2026-07-27 | 3 | 5 | 0 | 2 | 1 | 28 |
-| last180d | 2026-04-28 | 4 | 7 | 0 | 2 | 1 | 38 |
-| 360d | 2025-10-30 | 13 | 118 | 0 | 16 | 7 | 394 |
-| last720d | 2024-11-04 | 29 | 294 | 0 | 36 | 9 | 741 |
+| 30d | 2026-09-26 | 3 | 5 | 0 | 2 | 0 | 26 |
+| last60d | 2026-08-27 | 3 | 5 | 0 | 3 | 0 | 27 |
+| 90d | 2026-07-28 | 3 | 5 | 0 | 3 | 0 | 28 |
+| last180d | 2026-04-29 | 4 | 7 | 0 | 3 | 0 | 38 |
+| 360d | 2025-10-31 | 13 | 117 | 0 | 17 | 6 | 394 |
+| last720d | 2024-11-05 | 29 | 294 | 0 | 37 | 8 | 741 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for slumber lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:44:01Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:52:17Z._
