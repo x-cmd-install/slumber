@@ -33,7 +33,7 @@
   "immutable": false,
   "prerelease": false,
   "created_at": "2026-10-22T21:59:48Z",
-  "updated_at": "2026-10-22T22:19:02Z",
+  "updated_at": "2026-10-26T18:20:11Z",
   "published_at": "2026-10-22T22:19:02Z",
   "assets": [
     {
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6267468,
       "digest": "sha256:fbbbc2fb9fab5d83937bd8b8bc7f90b844cff064a75e5181ec3b7eb7476af2ec",
-      "download_count": 47,
+      "download_count": 69,
       "created_at": "2026-10-22T22:18:57Z",
       "updated_at": "2026-10-22T22:18:58Z",
       "browser_download_url": "https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-aarch64-apple-darwin.tar.xz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 6892800,
       "digest": "sha256:0203c1fa898d55e9735ce3fb9d8e0ccd6b3c69717f247a1d2f6f7cb02cb85356",
-      "download_count": 26,
+      "download_count": 27,
       "created_at": "2026-10-22T22:18:59Z",
       "updated_at": "2026-10-22T22:18:59Z",
       "browser_download_url": "https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-x86_64-apple-darwin.tar.xz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 10450149,
       "digest": "sha256:b413981b1f0009b6bc0548a7e23b3cdfa1c9f7bb1d0104b3c9bdddafc19a4fdc",
-      "download_count": 31,
+      "download_count": 34,
       "created_at": "2026-10-22T22:18:59Z",
       "updated_at": "2026-10-22T22:19:00Z",
       "browser_download_url": "https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-x86_64-pc-windows-msvc.zip"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 7285876,
       "digest": "sha256:fd8f4143a2ab1e1c8aa66e8937ce57d0d4a7dc04ae013178cb49a439316613fc",
-      "download_count": 24,
+      "download_count": 28,
       "created_at": "2026-10-22T22:18:59Z",
       "updated_at": "2026-10-22T22:19:00Z",
       "browser_download_url": "https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-x86_64-unknown-linux-gnu.tar.xz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 7493300,
       "digest": "sha256:4e117a39f4dd1920fcd6a29e0f23462144cfce89db7e65d1e2c0480ed961039e",
-      "download_count": 25,
+      "download_count": 28,
       "created_at": "2026-10-22T22:19:00Z",
       "updated_at": "2026-10-22T22:19:00Z",
       "browser_download_url": "https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-x86_64-unknown-linux-musl.tar.xz"
@@ -867,5 +867,5 @@
   ],
   "tarball_url": "https://api.github.com/repos/LucasPickering/slumber/tarball/v5.4.3",
   "zipball_url": "https://api.github.com/repos/LucasPickering/slumber/zipball/v5.4.3",
-  "body": "## Release Notes\n\n<!-- ANCHOR: changelog -->\n\n## Install slumber 5.4.3\n\n### Install prebuilt binaries via shell script\n\n```sh\ncurl --proto '=https' --tlsv1.2 -LsSf https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-installer.sh | sh\n```\n\n### Install prebuilt binaries via powershell script\n\n```sh\npowershell -ExecutionPolicy Bypass -c \"irm https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-installer.ps1 | iex\"\n```\n\n### Install prebuilt binaries via Homebrew\n\n```sh\nbrew install LucasPickering/tap/slumber\n```\n\n## Download slumber 5.4.3\n\n|  File  | Platform | Checksum |\n|--------|----------|----------|\n| [slumber-aarch64-apple-darwin.tar.xz](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-aarch64-apple-darwin.tar.xz) | Apple Silicon macOS | [checksum](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-aarch64-apple-darwin.tar.xz.sha256) |\n| [slumber-x86_64-apple-darwin.tar.xz](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-x86_64-apple-darwin.tar.xz) | Intel macOS | [checksum](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-x86_64-apple-darwin.tar.xz.sha256) |\n| [slumber-aarch64-pc-windows-msvc.zip](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-aarch64-pc-windows-msvc.zip) | ARM64 Windows | [checksum](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-aarch64-pc-windows-msvc.zip.sha256) |\n| [slumber-x86_64-pc-windows-msvc.zip](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-x86_64-pc-windows-msvc.zip) | x64 Windows | [checksum](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-x86_64-pc-windows-msvc.zip.sha256) |\n| [slumber-aarch64-unknown-linux-gnu.tar.xz](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-aarch64-unknown-linux-gnu.tar.xz) | ARM64 Linux | [checksum](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-aarch64-unknown-linux-gnu.tar.xz.sha256) |\n| [slumber-x86_64-unknown-linux-gnu.tar.xz](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-x86_64-unknown-linux-gnu.tar.xz) | x64 Linux | [checksum](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-x86_64-unknown-linux-gnu.tar.xz.sha256) |\n| [slumber-aarch64-unknown-linux-musl.tar.xz](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-aarch64-unknown-linux-musl.tar.xz) | ARM64 MUSL Linux | [checksum](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-aarch64-unknown-linux-musl.tar.xz.sha256) |\n| [slumber-x86_64-unknown-linux-musl.tar.xz](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-x86_64-unknown-linux-musl.tar.xz) | x64 MUSL Linux | [checksum](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-x86_64-unknown-linux-musl.tar.xz.sha256) |\n\n\n"
+  "body": "## Release Notes\r\n\r\n<!-- ANCHOR: changelog -->\r\n\r\n### Fixed\r\n\r\n- Upgrade `rustls-webpki` to [disallow the eMudhra certificates](https://emudhra.we-have-a-problem.com/)\r\n  - This is a critical security update!\r\n\r\n## Install slumber 5.4.3\r\n\r\n### Install prebuilt binaries via shell script\r\n\r\n```sh\r\ncurl --proto '=https' --tlsv1.2 -LsSf https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-installer.sh | sh\r\n```\r\n\r\n### Install prebuilt binaries via powershell script\r\n\r\n```sh\r\npowershell -ExecutionPolicy Bypass -c \"irm https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-installer.ps1 | iex\"\r\n```\r\n\r\n### Install prebuilt binaries via Homebrew\r\n\r\n```sh\r\nbrew install LucasPickering/tap/slumber\r\n```\r\n\r\n## Download slumber 5.4.3\r\n\r\n|  File  | Platform | Checksum |\r\n|--------|----------|----------|\r\n| [slumber-aarch64-apple-darwin.tar.xz](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-aarch64-apple-darwin.tar.xz) | Apple Silicon macOS | [checksum](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-aarch64-apple-darwin.tar.xz.sha256) |\r\n| [slumber-x86_64-apple-darwin.tar.xz](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-x86_64-apple-darwin.tar.xz) | Intel macOS | [checksum](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-x86_64-apple-darwin.tar.xz.sha256) |\r\n| [slumber-aarch64-pc-windows-msvc.zip](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-aarch64-pc-windows-msvc.zip) | ARM64 Windows | [checksum](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-aarch64-pc-windows-msvc.zip.sha256) |\r\n| [slumber-x86_64-pc-windows-msvc.zip](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-x86_64-pc-windows-msvc.zip) | x64 Windows | [checksum](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-x86_64-pc-windows-msvc.zip.sha256) |\r\n| [slumber-aarch64-unknown-linux-gnu.tar.xz](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-aarch64-unknown-linux-gnu.tar.xz) | ARM64 Linux | [checksum](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-aarch64-unknown-linux-gnu.tar.xz.sha256) |\r\n| [slumber-x86_64-unknown-linux-gnu.tar.xz](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-x86_64-unknown-linux-gnu.tar.xz) | x64 Linux | [checksum](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-x86_64-unknown-linux-gnu.tar.xz.sha256) |\r\n| [slumber-aarch64-unknown-linux-musl.tar.xz](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-aarch64-unknown-linux-musl.tar.xz) | ARM64 MUSL Linux | [checksum](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-aarch64-unknown-linux-musl.tar.xz.sha256) |\r\n| [slumber-x86_64-unknown-linux-musl.tar.xz](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-x86_64-unknown-linux-musl.tar.xz) | x64 MUSL Linux | [checksum](https://github.com/LucasPickering/slumber/releases/download/v5.4.3/slumber-x86_64-unknown-linux-musl.tar.xz.sha256) |\r\n\r\n\r\n"
 }
