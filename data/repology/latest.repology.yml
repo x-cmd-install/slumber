@@ -5,14 +5,14 @@
   visiblename: slumber
   version: 5.4.3
   origversion: 5.4.3-1
-  status: newest
+  status: outdated
   summary: Terminal-based REST client
   licenses:
     - MIT
 - repo: homebrew
   srcname: slumber
   visiblename: slumber
-  version: 5.4.3
+  version: 5.4.4
   origversion: null
   status: newest
   summary: Terminal-based HTTP/REST client
@@ -52,7 +52,7 @@
   visiblename: slumber
   version: 5.4.3
   origversion: 5.4.3-1
-  status: newest
+  status: outdated
   summary: Terminal-based REST client
   licenses:
     - MIT
@@ -116,7 +116,7 @@
   visiblename: slumber
   version: 5.4.3
   origversion: null
-  status: newest
+  status: outdated
   summary: Terminal-based HTTP/REST client
   maintainers:
     - jan+dev@vanesdonk.de
@@ -129,7 +129,7 @@
   visiblename: slumber
   version: 5.4.3
   origversion: 5.4.3-1
-  status: newest
+  status: outdated
   summary: Terminal-based REST client
   licenses:
     - MIT
@@ -173,7 +173,7 @@
   subrepo: main
   binname: slumber
   visiblename: slumber
-  version: 5.4.3
+  version: 5.4.4
   origversion: null
   status: newest
   licenses:
