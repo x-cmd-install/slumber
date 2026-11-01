@@ -38,7 +38,7 @@ Total: **49,399** lines of code across **193** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,230 · **Forks**: 40 · **Open issues**: 169 · **Contributors**: 12
+- **Stars**: 1,230 · **Forks**: 41 · **Open issues**: 169 · **Contributors**: 12
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **49,399** lines of code across **193** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 4 | 8 | 0 | 2 | 0 | 34 |
-| last60d | 2026-09-01 | 4 | 8 | 0 | 2 | 0 | 35 |
-| 90d | 2026-08-02 | 4 | 8 | 0 | 3 | 0 | 36 |
-| last180d | 2026-05-04 | 5 | 10 | 0 | 3 | 0 | 46 |
-| 360d | 2025-11-05 | 14 | 120 | 0 | 16 | 6 | 402 |
-| last720d | 2024-11-10 | 30 | 297 | 0 | 37 | 8 | 748 |
+| 30d | 2026-10-02 | 4 | 8 | 0 | 2 | 0 | 33 |
+| last60d | 2026-09-02 | 4 | 8 | 0 | 2 | 0 | 35 |
+| 90d | 2026-08-03 | 4 | 8 | 0 | 3 | 0 | 36 |
+| last180d | 2026-05-05 | 5 | 10 | 0 | 3 | 0 | 43 |
+| 360d | 2025-11-06 | 14 | 117 | 0 | 16 | 6 | 387 |
+| last720d | 2024-11-11 | 30 | 297 | 0 | 37 | 8 | 748 |
 
 ## Release assets
 
@@ -85,11 +85,11 @@ Total: **49,399** lines of code across **193** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **17** distros on [repology.org](https://repology.org/project/slumber). **2** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
+Reported by **17** distros on [repology.org](https://repology.org/project/slumber). **4** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `5.4.3` | ⚠️ outdated |
+| Arch | `5.4.4` | ✅ latest |
 | Homebrew | `5.4.4` | ✅ latest |
 | Nix unstable | `5.4.3` | ⚠️ outdated |
 
@@ -102,4 +102,4 @@ Install metadata for slumber lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:47:30Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:11:31Z._
