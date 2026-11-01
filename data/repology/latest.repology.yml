@@ -1,11 +1,20 @@
+- repo: scoop
+  subrepo: main
+  binname: slumber
+  visiblename: slumber
+  version: 5.4.4
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
 - repo: arch
   subrepo: extra
   srcname: slumber
   binname: slumber
   visiblename: slumber
-  version: 5.4.3
-  origversion: 5.4.3-1
-  status: outdated
+  version: 5.4.4
+  origversion: 5.4.4-1
+  status: newest
   summary: Terminal-based REST client
   licenses:
     - MIT
@@ -127,9 +136,9 @@
   srcname: slumber
   binname: slumber
   visiblename: slumber
-  version: 5.4.3
-  origversion: 5.4.3-1
-  status: outdated
+  version: 5.4.4
+  origversion: 5.4.4-1
+  status: newest
   summary: Terminal-based REST client
   licenses:
     - MIT
@@ -169,12 +178,3 @@
     - pkgsrc-users@netbsd.org
   categories:
     - net
-- repo: scoop
-  subrepo: main
-  binname: slumber
-  visiblename: slumber
-  version: 5.4.4
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
