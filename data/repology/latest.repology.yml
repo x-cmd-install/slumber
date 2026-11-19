@@ -161,9 +161,9 @@
   srcname: net/slumber
   binname: slumber
   visiblename: net/slumber
-  version: 5.4.0
-  origversion: 5.4.0nb1
-  status: outdated
+  version: 5.4.4
+  origversion: null
+  status: newest
   summary: Terminal-based REST client
   maintainers:
     - pkgsrc-users@netbsd.org
