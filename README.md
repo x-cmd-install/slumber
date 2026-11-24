@@ -14,14 +14,14 @@ x install slumber
 
 ## Code insight
 
-Total: **49,399** lines of code across **193** files in the top 5 languages.
+Total: **49,406** lines of code across **193** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 43,903 | 3,359 | 4,617 | 151 |
 | Yaml | 2,879 | 59 | 91 | 16 |
 | Json | 1,656 | 0 | 1 | 5 |
-| Toml | 759 | 30 | 90 | 18 |
+| Toml | 766 | 30 | 93 | 18 |
 | Python | 169 | 12 | 67 | 3 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **49,399** lines of code across **193** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v5.4.4` (2026-10-27)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-11-24
 - **Assets in release**: 23
 
 ## Popularity
 
-- **Stars**: 1,240 · **Forks**: 41 · **Open issues**: 171 · **Contributors**: 12
+- **Stars**: 1,239 · **Forks**: 41 · **Open issues**: 171 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 67 · **Merged PRs**: 577 · **Open PRs**: 0 · **Closed issues**: 162 · **Open issues**: 9 · **Commits**: 1344
+- **Releases**: 67 · **Merged PRs**: 577 · **Open PRs**: 0 · **Closed issues**: 162 · **Open issues**: 9 · **Commits**: 1346
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 3 | 0 | 2 | 0 | 0 |
-| last60d | 2026-09-24 | 4 | 8 | 0 | 4 | 0 | 34 |
-| 90d | 2026-08-25 | 4 | 8 | 0 | 5 | 0 | 36 |
-| last180d | 2026-05-27 | 4 | 8 | 0 | 5 | 0 | 38 |
-| 360d | 2025-11-28 | 13 | 101 | 0 | 14 | 4 | 358 |
-| last720d | 2024-12-03 | 29 | 293 | 0 | 38 | 7 | 740 |
+| 30d | 2026-10-25 | 1 | 3 | 0 | 2 | 0 | 2 |
+| last60d | 2026-09-25 | 4 | 8 | 0 | 4 | 0 | 36 |
+| 90d | 2026-08-26 | 4 | 8 | 0 | 5 | 0 | 38 |
+| last180d | 2026-05-28 | 4 | 8 | 0 | 5 | 0 | 40 |
+| 360d | 2025-11-29 | 13 | 100 | 0 | 13 | 4 | 360 |
+| last720d | 2024-12-04 | 29 | 293 | 0 | 38 | 7 | 742 |
 
 ## Release assets
 
@@ -85,7 +85,7 @@ Total: **49,399** lines of code across **193** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **17** distros on [repology.org](https://repology.org/project/slumber). **8** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **17** distros on [repology.org](https://repology.org/project/slumber). **9** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -102,4 +102,4 @@ Install metadata for slumber lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T09:32:34Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:53:20Z._
